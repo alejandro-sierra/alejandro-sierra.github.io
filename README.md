@@ -1,6 +1,6 @@
 # Alejandro Ballesta Sierras
 
-Me llamo Alejandro Ballesta y estos son algunos de los proyectos que estoy haciendo.
+Me llamo Alejandro Ballesta y estos son algunos de los proyectos que estoy realizando o he finalizado.
 
 ## Los Proyetos
 
