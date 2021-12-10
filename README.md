@@ -1,6 +1,6 @@
 # Alejandro Ballesta Sierras
 
-Me llamo Alejandro Ballesta y estos son algunos de los proyectos que estoy realizando o he finalizado.
+Me llamo Alejandro Ballesta y estos son algunos de los proyectos que estoy realizando o he finalizado. Y puede que alguna otra cosa 😄.
 
 ## Los Proyetos
 
@@ -10,3 +10,6 @@ Me llamo Alejandro Ballesta y estos son algunos de los proyectos que estoy reali
 
 ### Alex Construction
 * [Alex Construction](https://alejandro-sierra.github.io/proyectoIndividualDiw/) proyecto realizado en la asignatura de *Diseño de Interfaces*, también de HTML y CSS.
+
+### Circulitos
+* [Circulitos](https://alejandro-sierra.github.io/circulitos/) proyecto hecho por diversión.
